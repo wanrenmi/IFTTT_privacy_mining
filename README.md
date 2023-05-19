@@ -1,0 +1,2 @@
+# IFTTT_privacy_mining
+基于IFTTT平台的隐私挖掘工具
