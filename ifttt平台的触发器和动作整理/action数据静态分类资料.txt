@@ -1,0 +1,316 @@
+C:\ProgramData\Anaconda3\python.exe C:/本科阶段资料/罗元相关项目/ifttt平台的触发器和动作整理/py脚本/each_TorA_search.py
+
+共有311个TorA
+WeMo Maker (39)                                   	39        
+Smappee (24)                                      	24        
+WeMo Heater (9)                                   	9         
+microBees (3)                                     	3         
+Beseye (3)                                        	3         
+Flickr (1751)                                     	1751      
+Wattio POD (39)                                   	39        
+Box (867)                                         	867       
+tadoº Air Conditioning (30)                       	30        
+WeMo Maker- STAG (1)                              	1         
+Lynx Technology (15)                              	15        
+Daikin Online Controller (25)                     	25        
+Heatmiser (9)                                     	9         
+Cogitai (29)                                      	29        
+Danfoss ECL (4)                                   	4         
+Home8 (28)                                        	28        
+Essence Alpha (Staging) (6)                       	6         
+Google Wifi (26)                                  	26        
+Day One (214)                                     	214       
+WeMo Light Switch (365)                           	365       
+Particle (156)                                    	156       
+GE Appliances Window AC (30)                      	30        
+Nefit Easy (19)                                   	19        
+Honeywell Total Connect Comfort (137)             	137       
+Convo (4)                                         	4         
+Pinboard (318)                                    	318       
+UP by Jawbone (520)                               	520       
+HipChat (1)                                       	1         
+Saga Internal (Dev0) (1)                          	1         
+PAVLOK - Staging (12)                             	12        
+Nimbus Note (92)                                  	92        
+OneNote (2479)                                    	2479      
+Wink: Aros (61)                                   	61        
+Wireless Tag (11)                                 	11        
+WeMo Lighting (192)                               	192       
+MailChimp (18)                                    	18        
+iLabs (1)                                         	1         
+Pushbullet (2612)                                 	2612      
+GreenIQ (6)                                       	6         
+Delicious (4254)                                  	4254      
+HP Print (89)                                     	89        
+Electric Objects (6)                              	6         
+Adafruit (56)                                     	56        
+TeamSnap (7)                                      	7         
+WeMo Smart Plug (1373)                            	1373      
+Oco Camera (20)                                   	20        
+Dropbox (7364)                                    	7364      
+incubatorLabs (1)                                 	1         
+Wink: Pivot Power Genius (42)                     	42        
+LINE (100)                                        	100       
+SkylinkNet (21)                                   	21        
+Telegram (3)                                      	3         
+TestIH(out of service) (2)                        	2         
+Pushalot (138)                                    	138       
+Digg (1)                                          	1         
+Rachio (73)                                       	73        
+WIFIPLUG (37)                                     	37        
+Musaic (23)                                       	23        
+Ruler of the Realm (1)                            	1         
+Sensibo (42)                                      	42        
+Whirlpool Refrigerator (5)                        	5         
+Phone Call (US only) (2028)                       	2028      
+AT&T M2X (5)                                      	5         
+Hive Active Heating™ [beta] (8)                   	8         
+ThermoSmart (63)                                  	63        
+openHAB (40)                                      	40        
+MeisterTask (18)                                  	18        
+Emberlight (30)                                   	30        
+IBM Watson Workspace (6)                          	6         
+Tumblr (9939)                                     	9939      
+Office 365 Mail (40)                              	40        
+Evernote (11488)                                  	11488     
+FollowUp.cc (45)                                  	45        
+Quip (127)                                        	127       
+Sina Weibo (529)                                  	529       
+LinkedIn (2931)                                   	2931      
+Nest Thermostat (626)                             	626       
+Kyber calendars, todos & reminders (34)           	34        
+Myfox HomeControl (54)                            	54        
+Greenwave Systems (17)                            	17        
+Skydrop (Staging) (1)                             	1         
+Yeelight (3)                                      	3         
+IMPLAY^2 (4)                                      	4         
+Printhug (23)                                     	23        
+Narro (80)                                        	80        
+bitly (3802)                                      	3802      
+Bang & Olufsen's BeoLink Gateway (2)              	2         
+RainMachine (18)                                  	18        
+John Deere (1)                                    	1         
+LaMetric Time (51)                                	51        
+Wink: Shortcuts (167)                             	167       
+PAVLOK (50)                                       	50        
+SoundCloud (351)                                  	351       
+Oticon (22)                                       	22        
+Worldwide Interactive Alarm (5)                   	5         
+Google Drive (15571)                              	15571     
+Instapush (85)                                    	85        
+Withings Home (30)                                	30        
+Photttoboard (1)                                  	1         
+Arlo QA (Staging) (2)                             	2         
+Runkeeper (1)                                     	1         
+Medium (1132)                                     	1132      
+Instapaper (3885)                                 	3885      
+TeamSnap (Staging) (1)                            	1         
+Forever Skipped (1)                               	1         
+HomeSeer (43)                                     	43        
+abode (19)                                        	19        
+Stack Lighting (20)                               	20        
+Android Photos (1)                                	1         
+Life360 (47)                                      	47        
+OneDrive (1003)                                   	1003      
+Beseye_dev (1)                                    	1         
+WordPress (New) (1)                               	1         
+Trello (886)                                      	886       
+Deezer (39)                                       	39        
+Honeywell evohome (68)                            	68        
+Caleo (Staging) (1)                               	1         
+BMW Labs (68)                                     	68        
+Diigo (4291)                                      	4291      
+Samsung Air Purifier (5)                          	5         
+Stack Lighting (Staging) (4)                      	4         
+iOS Photos (839)                                  	839       
+D-Link Connected Home Camera (3)                  	3         
+Komfy Switch with Camera Dev (2)                  	2         
+LIFX (727)                                        	727       
+Samsung Washer (2)                                	2         
+Pryv (139)                                        	139       
+Homeboy (47)                                      	47        
+Strava (19)                                       	19        
+simplehuman (7)                                   	7         
+Skydrop (7)                                       	7         
+Bhome (5)                                         	5         
+Seeed (18)                                        	18        
+Samsung Room Air Conditioner (5)                  	5         
+Pocket (7370)                                     	7370      
+Keenai (45)                                       	45        
+Homeboy (Staging) (1)                             	1         
+Samsung Floor Air Conditioner (5)                 	5         
+ARTIK Cloud (4)                                   	4         
+HD PowerView QA (Staging) (3)                     	3         
+Wink: Nimbus (92)                                 	92        
+Pinterest (2461)                                  	2461      
+Verizon Cloud (10)                                	10        
+Hive Active Light™ [beta] (2)                     	2         
+Blogger (7956)                                    	7956      
+No Offense Club (1)                               	1         
+D-Link Siren (20)                                 	20        
+Comcast Labs (108)                                	108       
+Energenie Mi|Home (56)                            	56        
+TiVo (2)                                          	2         
+Flock (32)                                        	32        
+LightwaveRF Events (17)                           	17        
+WordPress (8161)                                  	8161      
+Scout Alarm (58)                                  	58        
+Lockitron (3)                                     	3         
+Android SMS (1841)                                	1841      
+Todoist (1297)                                    	1297      
+Qblinks Qmote (1)                                 	1         
+SkyBell HD (18)                                   	18        
+Google Glass (277)                                	277       
+Google Calendar (3267)                            	3267      
+Uber Old (9)                                      	9         
+D-Link Smart Plug (80)                            	80        
+iSecurity+ (19)                                   	19        
+GE Appliances Dryer (2)                           	2         
+Zubie (Staging) (6)                               	6         
+Harvest (7)                                       	7         
+SmartThings (406)                                 	406       
+indoona (8)                                       	8         
+Boxcar 2 (141)                                    	141       
+Skype (old) (1)                                   	1         
+Cisco Spark (121)                                 	121       
+Futurehome (5)                                    	5         
+HomeControl Flex (27)                             	27        
+Notifications (11082)                             	11082     
+GE Appliances Cooking (17)                        	17        
+iOS Reading List (54)                             	54        
+Philips Hue (3703)                                	3703      
+Android Device (4808)                             	4808      
+Piper (49)                                        	49        
+Ubi (142)                                         	142       
+myStrom (13)                                      	13        
+GE Appliances Refrigerator (12)                   	12        
+LG Smartphone (2)                                 	2         
+Email Digest (1587)                               	1587      
+Accessory Channel (1)                             	1         
+SMS (12662)                                       	12662     
+GE Appliances GeoSpring™ (36)                     	36        
+IntesisHome (24)                                  	24        
+Office 365 Calendar (42)                          	42        
+WeMo Coffeemaker (14)                             	14        
+WeMo Insight Switch (276)                         	276       
+OneDrive for Business (30)                        	30        
+Sen.se Mother (5)                                 	5         
+Wiser Smart (2)                                   	2         
+Manything (81)                                    	81        
+Amazon Cloud Drive (63)                           	63        
+tadoº Heating (25)                                	25        
+Musixmatch (10)                                   	10        
+Concur Labs (4)                                   	4         
+SurveyMonkey (3)                                  	3         
+XY Findables (3)                                  	3         
+Lutron Caséta Wireless (54)                       	54        
+Misfit (36)                                       	36        
+Office 365 Contacts (5)                           	5         
+Airtable (9)                                      	9         
+Seagate Personal Cloud (27)                       	27        
+Yo (6)                                            	6         
+Recon (10)                                        	10        
+Wattio GATE (15)                                  	15        
+500px (609)                                       	609       
+IMPLAY (1)                                        	1         
+GroupMe (167)                                     	167       
+blink(1) (201)                                    	201       
+Instawell (73)                                    	73        
+Leeo (20)                                         	20        
+Harmony (346)                                     	346       
+RemoteLync (9)                                    	9         
+Pushover (2404)                                   	2404      
+reddit (980)                                      	980       
+Android Wear (378)                                	378       
+Hive Active Heating™ (42)                         	42        
+Ambi Climate (4)                                  	4         
+Slack (2242)                                      	2242      
+Gogogate (14)                                     	14        
+Honeywell Single-zone Thermostat (27)             	27        
+Samsung Robot Vacuum (4)                          	4         
+blink1new (3)                                     	3         
+Facebook Pages (14112)                            	14112     
+LightwaveRF Power (20)                            	20        
+ShopYourWay (17)                                  	17        
+Melissa (1)                                       	1         
+Genius Hub (1)                                    	1         
+Hack Your Space (1)                               	1         
+invoxia Triby IO (4)                              	4         
+Telldus Live! (2)                                 	2         
+Weebly (960)                                      	960       
+Salesforce (91)                                   	91        
+tttv (4)                                          	4         
+MESH (8)                                          	8         
+LightwaveRF Heating (7)                           	7         
+Pruvan (6)                                        	6         
+Ivideon (7)                                       	7         
+WeMo Slow Cooker (14)                             	14        
+Asana (3)                                         	3         
+woopla (1)                                        	1         
+Danalock (11)                                     	11        
+ecobee (219)                                      	219       
+WeMo Humidifier (6)                               	6         
+SpotCam HD (57)                                   	57        
+Stockimo (22)                                     	22        
+Skype (133)                                       	133       
+Qapital (123)                                     	123       
+Hektor (7)                                        	7         
+Toodledo (265)                                    	265       
+ORBneXt (38)                                      	38        
+WeMo Air Purifier (5)                             	5         
+MicroBot Push for Prota (6)                       	6         
+Whirlpool Refrigerator (Staging) (5)              	5         
+Messsageboard (1)                                 	1         
+NIBE Uplink (4)                                   	4         
+Genius (32)                                       	32        
+Facebook (13147)                                  	13147     
+Maker Webhooks (1417)                             	1417      
+Somfy Protect (26)                                	26        
+Almond (14)                                       	14        
+Hive Active Light™ (10)                           	10        
+Arlo (70)                                         	70        
+Tesco (41)                                        	41        
+PVT HomeControl Flex (1)                          	1         
+littleBits (243)                                  	243       
+NewsBlur (492)                                    	492       
+Whistle (5)                                       	5         
+popSLATE (18)                                     	18        
+Failures (1)                                      	1         
+Wattio THERMIC (34)                               	34        
+Buffer (7056)                                     	7056      
+Caleo (11)                                        	11        
+Inoreader (166)                                   	166       
+Honeywell Lyric (18)                              	18        
+Camio (31)                                        	31        
+Whaller (12)                                      	12        
+Hunter Douglas PowerView (29)                     	29        
+iOS Reminders (781)                               	781       
+GitHub (243)                                      	243       
+Komfy Outlet Dev (2)                              	2         
+Google Contacts (53)                              	53        
+Numerous (Staging) (4)                            	4         
+Spotify (590)                                     	590       
+Komfy Outlet (2)                                  	2         
+wonderworkshop_development (Staging) (4)          	4         
+Feedly (311)                                      	311       
+Wolfram Data Drop (38)                            	38        
+Netatmo Thermostat (35)                           	35        
+EZVIZ (14)                                        	14        
+Essence Integration (Staging) (5)                 	5         
+LightwaveRF Lighting (25)                         	25        
+Stack (43)                                        	43        
+Email (18511)                                     	18511     
+EVE For Tesla (7)                                 	7         
+Twitter (46646)                                   	46646     
+nomos (1)                                         	1         
+RescueTime (62)                                   	62        
+Home Connect Oven (3)                             	3         
+Fitbit (62)                                       	62        
+Sharpr (6)                                        	6         
+Gmail (11384)                                     	11384     
+Fleep (23)                                        	23        
+Garageio (22)                                     	22        
+Beeminder (90)                                    	90        
+Mocker (1)                                        	1         
+
+Process finished with exit code 0

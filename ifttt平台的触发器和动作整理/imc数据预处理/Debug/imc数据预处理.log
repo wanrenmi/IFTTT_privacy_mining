@@ -1,0 +1,3 @@
+﻿  preprocess.c
+C:\本科阶段资料\罗元相关项目\ifttt平台的触发器和动作整理\imc数据预处理\preprocess.c(16,7): warning C4013: “exit”未定义；假设外部返回 int
+  imc数据预处理.vcxproj -> C:\本科阶段资料\罗元相关项目\ifttt平台的触发器和动作整理\imc数据预处理\Debug\imc数据预处理.exe
